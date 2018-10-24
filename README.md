@@ -6,8 +6,12 @@ Our goal in this project is to use various Deep-Learning/ Generative architecure
 # Link for dataset:
 https://20bn.com/datasets/something-something/v2
 
-# Link to to Pred-net previous implementations in Keras:
+# Link to Pred-net previous implementations in Keras:
 https://coxlab.github.io/prednet/
+
+https://github.com/coxlab/prednet
+
+https://github.com/kunimasa-kawasaki/keras-prednet
 
 # Links to Pred-net previous implementations in pytorch:
 https://github.com/leido/pytorch-prednet
