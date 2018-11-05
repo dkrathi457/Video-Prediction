@@ -27,3 +27,4 @@ https://github.com/Atcold/pytorch-CortexNet/blob/master/model/PrednetModel.py
 
 ## Benchmark Model:
 https://arxiv.org/abs/1605.08104
+https://github.com/TwentyBN/something-something-v2-baseline
