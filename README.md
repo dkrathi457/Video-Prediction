@@ -8,7 +8,7 @@ Future frame prediction in videos is a promising avenue for unsupervised video r
 ## Solution: 
 Our goal in this project is to use various Deep-Learning/ Generative architecures to predict the future frames for a given real-time video. Also, in this project we tried to used the annotated text to evaluate whether it helps to explain the generation of correct future frames or not. 
 
-## Link for dataset:
+## Link for benchmark dataset:
 https://20bn.com/datasets/something-something/v2
 
 ## Link to Pred-net implementations in Keras:
