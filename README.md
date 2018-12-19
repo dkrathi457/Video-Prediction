@@ -19,9 +19,9 @@ https://20bn.com/datasets/something-something/v2
 5) Validation : 24,777 videos
 6) Test : 27,157 videos
 7) Labels: 
-A) 50 coarse-grained action groups.
-B) 174 action categories e.g."Putting [something] onto [something]"  
-C) 318,572 annotations and 30,408 unique objects e.g. “Putting a blue cup onto a table"  
+  A) 50 coarse-grained action groups.
+  B) 174 action categories e.g."Putting [something] onto [something]"  
+  C) 318,572 annotations and 30,408 unique objects e.g. “Putting a blue cup onto a table"  
 
 ## Link to Pred-net implementations in Keras:
 1) https://coxlab.github.io/prednet/
