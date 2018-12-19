@@ -12,39 +12,30 @@ Our goal in this project is to use various Deep-Learning/ Generative architecure
 https://20bn.com/datasets/something-something/v2
 
 ## About dataset(220,847 videos):
-All the videos have a height of 240px and have variable width.
-
-FPS : 12  
-
-Training : 168,913 videos
-
-Validation : 24,777 videos
-
-Test : 27,157 videos
-
-Labels: 
-1) 50 coarse-grained action groups.
-2) 174 action categories e.g."Putting [something] onto [something]"  
-3) 318,572 annotations and 30,408 unique objects e.g. “Putting a blue cup onto a table"  
+1) Height : 240px 
+2) Width : Variable
+3) FPS : 12  
+4) Training : 168,913 videos
+5) Validation : 24,777 videos
+6) Test : 27,157 videos
+7) Labels: 
+A) 50 coarse-grained action groups.
+B) 174 action categories e.g."Putting [something] onto [something]"  
+C) 318,572 annotations and 30,408 unique objects e.g. “Putting a blue cup onto a table"  
 
 ## Link to Pred-net implementations in Keras:
-https://coxlab.github.io/prednet/
-
-https://github.com/coxlab/prednet
-
-https://github.com/kunimasa-kawasaki/keras-prednet
+1) https://coxlab.github.io/prednet/
+2) https://github.com/coxlab/prednet
+3) https://github.com/kunimasa-kawasaki/keras-prednet
 
 ## Links to Pred-net implementations in pytorch:
-https://github.com/leido/pytorch-prednet
-
-https://github.com/bionick87/PredNet-ConvGRU
-
-https://github.com/Atcold/pytorch-CortexNet/blob/master/model/PrednetModel.py
+1) https://github.com/leido/pytorch-prednet
+2) https://github.com/bionick87/PredNet-ConvGRU
+3) https://github.com/Atcold/pytorch-CortexNet/blob/master/model/PrednetModel.py
 
 ## Links to Pred-net implementations in Tensorflow:
-https://github.com/kikyou123/prednet_tf
+1) https://github.com/kikyou123/prednet_tf
 
 ## Benchmark Model:
-https://arxiv.org/abs/1605.08104
-
-https://github.com/TwentyBN/something-something-v2-baseline
+1) https://arxiv.org/abs/1605.08104
+2) https://github.com/TwentyBN/something-something-v2-baseline
