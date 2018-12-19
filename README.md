@@ -11,6 +11,22 @@ Our goal in this project is to use various Deep-Learning/ Generative architecure
 ## Link for benchmark dataset:
 https://20bn.com/datasets/something-something/v2
 
+## About dataset(220,847 videos):
+All the videos have a height of 240px and have variable width.
+
+FPS : 12  
+
+Training : 168,913 videos
+
+Validation : 24,777 videos
+
+Test : 27,157 videos
+
+Labels: 
+1) 50 coarse-grained action groups.
+2) 174 action categories e.g."Putting [something] onto [something]"  
+3) 318,572 annotations and 30,408 unique objects e.g. “Putting a blue cup onto a table"  
+
 ## Link to Pred-net implementations in Keras:
 https://coxlab.github.io/prednet/
 
